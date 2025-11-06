@@ -1,2 +1,1 @@
-# BalanceIQ
-Basic URL for Plaid
+# My First Project
